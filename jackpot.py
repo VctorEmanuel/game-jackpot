@@ -1,4 +1,3 @@
-
 from random import random
 from tkinter import *
 import time
