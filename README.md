@@ -1,2 +1,2 @@
 # Jackpot-Python
-A amateur jackpot in Python
+A amateur casino jackpot in Python
